@@ -1,0 +1,10 @@
+.wrapper-cell{
+    background-color: blue;
+    height: 40px;
+    max-width: 90px; 
+    padding: 2px;
+}
+.cell{
+    background-color: yellow;
+    text-align: center;
+}
